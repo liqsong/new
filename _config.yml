@@ -1,9 +1,9 @@
 # basic options
-Title: Sonia Song
-Author: Sonia
-Email: liqsosng@gmail.com
-Description: a wonderful site
+title: Sonia Song
+author: Sonia
+email: liqsosng@gmail.com
+description: a wonderful site
 
-#build settings
+# Build settings
 markdown: kramdown
 theme: minima
