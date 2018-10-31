@@ -1,0 +1,8 @@
+Title: Sonia Song
+Author: Sonia
+Email: liqsosng@gmail.com
+Description: a wonderful site
+
+#build settings
+markdown: kramdown
+theme: minima
